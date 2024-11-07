@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3152388138599554071
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 240060990098942371, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4300002, guid: 9afa958d6d8235941b9badb42aae4370, type: 3}
+    - target: {fileID: 1268930126748825188, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: pointValue
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537173056177893850, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_Name
+      value: "Astero\xEEd 2"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2718578121181903591, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 578af1667322bab45b652b79a40bb4fb, type: 2}
+    - target: {fileID: 3742684368480170607, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_Height
+      value: 0.9347913
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742684368480170607, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_Radius
+      value: 0.6269766
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742684368480170607, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_Center.x
+      value: -0.017024428
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742684368480170607, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_Center.y
+      value: 0.023707634
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742684368480170607, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_Center.z
+      value: 0.0040495107
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394940361254610997, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394940361254610997, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394940361254610997, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394940361254610997, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394940361254610997, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394940361254610997, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394940361254610997, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394940361254610997, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394940361254610997, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394940361254610997, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f24641b52d47414a97cf7c8e80240e7, type: 3}
